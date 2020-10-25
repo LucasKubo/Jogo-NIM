@@ -70,4 +70,5 @@ def main ():
     else:
         print ("\nVoce escolheu um campeonato!")
         campeonato ()
+
 main ()
